@@ -1,0 +1,6 @@
+{
+  "name": "Uni-Grow",
+  "description": "AI-powered classroom engagement platform for Indian college professors, students, and administrators with interactive quizzes, smart attendance, and gamified PBL performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
